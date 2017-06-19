@@ -1,6 +1,6 @@
 ### A Social Genius Game Written in React
 
-Components
-game
-board
-sqaure
+#Components
+- game
+- board
+- sqaure
