@@ -1,7 +1,6 @@
 ### A Social Genius Game Written in React
 
-### Demo
-[CODE PEN](https://codepen.io/yining1023/pen/YQQZPE?editors=0010)
+### [Demo](https://codepen.io/yining1023/pen/YQQZPE?editors=0010)
 
 ### Turtorial
 
